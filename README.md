@@ -1,3 +1,3 @@
-This is the repo of the CEC 2025 workshop.
+This is the repo of the CEC 2026 workshop.
 
-Visit https://cec25.github.io
+Visit https://cecf.github.io/cec26
